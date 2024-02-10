@@ -3,13 +3,13 @@ author: maddy
 date: 2023-04-27T15:45:17+05:30
 lastmod: 2023-04-27T15:54:09+05:30
 title: 2023-04-27 April Month End Profit and Loss
-description: 🧔MADDY's 💸P&L Statement for  2023-04-27T15:45:17 
+description: 🧔MADDY's 💸P&L Statement for  2023-04-27T15:45:17
 tags:
-- Trade-Diary📗
-- Monthly-PnL💵
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - Monthly-PnL💵
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
@@ -24,10 +24,6 @@ disableComments: false
 - Most profit came from last week.
 - Market also trapped me on the monthly expiry.
 
-{{% notice info %}}
 Month April Total Net Profit = ₹13,070/- ( **4.35% Net Profit on ROI** )
-{{% /notice %}}
-
 
 ![](https://i.imgur.com/RG5RsYE.png)
-

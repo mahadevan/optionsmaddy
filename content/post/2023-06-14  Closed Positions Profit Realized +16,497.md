@@ -4,22 +4,21 @@ date: 2023-06-14T15:31:09+05:30
 lastmod: 2023-06-14T15:35:56+05:30
 title: 2023-06-14  Closed Positions Profit Realized +16,497
 thumbnail: ""
-description: 🧔MADDY's 💸P&L Statement for  2023-06-14T15:31:09 
+description: 🧔MADDY's 💸P&L Statement for  2023-06-14T15:31:09
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
+
 # Good Positional Selling, Bad Intraday Buying
 
-{{% notice update %}}
 - Biweekly Double diagonal position closed.
 - Profit Realized : +18,172
 - Holding Hedges.
-{{% /notice %}}
 
 ## Intraday Loss -3,097
 
@@ -46,15 +45,15 @@ disableComments: false
 
 ![](https://i.imgur.com/fopfVyQ.png)
 
-
 #### Current Position
 
 ![](https://i.imgur.com/iy2UXnS.png)
 
 {{% notice warning %}}
+
 - 😨 First time holding short buy position for tomorrows expiry.
 - Gap down will give some profit.
 - Gap up will make another lose making it another loss making option buying endeavor.
 - Hope the decay will be gently.
 - 🤞🏼All these for covering todays loss. Hope I don't end up doubling my loss.
-{{% /notice %}}
+  {{% /notice %}}

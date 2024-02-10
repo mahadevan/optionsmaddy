@@ -4,15 +4,16 @@ date: 2023-06-19T14:39:43+05:30
 lastmod: 2023-06-19T14:39:43+05:30
 title: 2023-06-19 Started as a nightmare ended as a relief Profit +1.7K
 thumbnail: ""
-description: 🧔MADDY's 💸P&L Statement for  2023-06-19T14:39:43 
+description: 🧔MADDY's 💸P&L Statement for  2023-06-19T14:39:43
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
+
 # Nightmare Intraday
 
 - I took an intraday BN. Made all the wrong judgements. I bought or 201.
@@ -20,7 +21,7 @@ disableComments: false
 ![](https://i.imgur.com/J6sWTUC.png)
 
 - SL was at 170.
-- Market were going sideways with occasional large candles for sl hunting. 
+- Market were going sideways with occasional large candles for sl hunting.
 - I switched off all SL to prevent SL hunting.
 - Turned out to be an absolute nightmare. It went to 93. 🤯
 - At one time I was -₹5500 Loss intraday or just 2 lots.
@@ -50,13 +51,10 @@ disableComments: false
 
 ## Positional Trade
 
-{{% notice update %}}
 - Closed my Iron condor position at 1K Profit ( Realized Yesterday ).
 - Took a new straddle position as I think markets could rally.
-{{% /notice %}}
 
 ![](https://i.imgur.com/BPOVHv2.png)
-
 
 ### Positions
 
@@ -66,8 +64,8 @@ disableComments: false
 
 ![](https://i.imgur.com/kIGWqhu.png)
 
-
 {{% notice info %}}
+
 - No hedges in the positional straddle.
 - Tomorrow plan is to take full hedge & take double position with the margin benefit.
-{{% /notice %}}
+  {{% /notice %}}
