@@ -64,8 +64,5 @@ disableComments: false
 
 ![](https://i.imgur.com/kIGWqhu.png)
 
-{{% notice info %}}
-
 - No hedges in the positional straddle.
 - Tomorrow plan is to take full hedge & take double position with the margin benefit.
-  {{% /notice %}}

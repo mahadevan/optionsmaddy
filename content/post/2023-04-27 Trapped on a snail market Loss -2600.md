@@ -3,18 +3,19 @@ author: maddy
 date: 2023-04-27T11:17:02+05:30
 lastmod: 2023-04-27T11:17:02+05:30
 title: 2023-04-27 Trapped on a snail market Loss MTM 2600
-description: 🧔MADDY's 💸P&L Statement for  2023-04-27T11:17:02 
+description: 🧔MADDY's 💸P&L Statement for  2023-04-27T11:17:02
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
+
 ## Zerodha Issue Incident ❌
 
-- Zerodha had issue today. 
+- Zerodha had issue today.
 - I was able to place order but cannot cancel order.
 - People were complaining on twitter.
 - I recorded the video on phone, if the problem escalated I could produce evidence for reimbursement.
@@ -43,8 +44,5 @@ disableComments: false
 
 ![](https://i.imgur.com/5DWpN2G.png)
 
-{{% notice warning %}}
-Lesson : Don't keep positions on Monthly Expiry. 
+Lesson : Don't keep positions on Monthly Expiry.
 Exit ASAP & Take position for next Expiry.
-{{% /notice %}}
-

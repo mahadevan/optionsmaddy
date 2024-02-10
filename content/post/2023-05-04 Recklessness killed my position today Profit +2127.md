@@ -3,15 +3,16 @@ author: maddy
 date: 2023-05-04T16:40:06+05:30
 lastmod: 2023-05-04T16:40:06+05:30
 title: 2023-05-04 Recklessness killed my position today Profit MTM +2K
-description: 🧔MADDY's 💸P&L Statement for  2023-05-04T16:40:06 
+description: 🧔MADDY's 💸P&L Statement for  2023-05-04T16:40:06
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
+
 # Recklessness ( No SL ) killed my profit today
 
 ![](https://i.imgur.com/HVzElCA.png)
@@ -36,8 +37,6 @@ disableComments: false
 - My recklessness was the reason I lost it.
 - I feel indebted today as I got a slap from the market. Net time when I have big position I will never be this reckless again.
 
-{{% notice warning %}}
 Lesson Learned **Always Keep SL**
-{{% /notice %}}
 
-NB:  Also I couldn't close my CE position. SO God knows how much penalty I would have to pay for that. I had a limit order which never went off and by the time i edit it market closed. 😞 
+NB: Also I couldn't close my CE position. SO God knows how much penalty I would have to pay for that. I had a limit order which never went off and by the time i edit it market closed. 😞

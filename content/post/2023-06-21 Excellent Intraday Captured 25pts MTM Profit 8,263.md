@@ -4,15 +4,16 @@ date: 2023-06-21T15:34:15+05:30
 lastmod: 2023-06-21T15:34:48+05:30
 title: 2023-06-21 Excellent Intraday Captured 25pts MTM Profit 8,263
 thumbnail: ""
-description: 🧔MADDY's 💸P&L Statement for  2023-06-21T15:34:15 
+description: 🧔MADDY's 💸P&L Statement for  2023-06-21T15:34:15
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
+
 # Only One Intraday Trade Captured 25pts
 
 - Had strong bullish bias from the beginning.
@@ -36,10 +37,6 @@ disableComments: false
 
 ![](https://i.imgur.com/3PoISOK.png)
 
-
-{{% notice warning %}}
 - Tomorrow big gap down will be fatal.
 - Big gap down also give small loss, but I am not afraid of gap down.
 - Gap up can be very frustrating.
-{{% /notice %}}
-

@@ -49,11 +49,8 @@ disableComments: false
 
 ![](https://i.imgur.com/iy2UXnS.png)
 
-{{% notice warning %}}
-
 - 😨 First time holding short buy position for tomorrows expiry.
 - Gap down will give some profit.
 - Gap up will make another lose making it another loss making option buying endeavor.
 - Hope the decay will be gently.
 - 🤞🏼All these for covering todays loss. Hope I don't end up doubling my loss.
-  {{% /notice %}}
