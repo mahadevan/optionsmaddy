@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "750982029fb247d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3baf49e9ab5300c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94f61b2b64fa801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "448d43dbee33d58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9140be6f56d706e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f2eba7a699278f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4444fcdcdf91e6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05aa5492441e07e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c17a2e804d14b8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cda5c3c8c6278206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "725d7ca9f03bea3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15dc6d758ae33aef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e905ddc7f42e63f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d05ce9721506e01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "a94f61b2b64fa801",
+  "lastOpenFiles": [
+    "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
+    "assets/jsconfig.json",
+    "resources/_gen/images/avatar_hu1980b843e35ed52ce61c44c05fa59806_29452_300x0_resize_box_3.png",
+    "resources/_gen/images",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "content/post/2023-04-21 New Trades Profit MTM +5000.md",
+    "content/post/2023-04-19 BTST Profit +680.md",
+    "content/post/19-commandments-options-tasty-trade.md"
+  ]
+}
